@@ -16,7 +16,14 @@ The objective of this project is to develop an intentionally web application usi
 ## Deployment
 
 ### Acquire Source
+dfdfd
 
+ds
+fd
+f
+df
+
+df
 ```
 git clone git@bitbucket.org:appsecco/dvja-webapp.git dvja
 ```
