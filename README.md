@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-Install Docker and Docker Compos.
+Install Docker and Docker Compose.
 
 ```
 docker-compose up
